@@ -46,9 +46,7 @@ I’m a passionate **FullStack Laravel Developer** from **Bangladesh**, focused 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0000asif&show_icons=true&theme=radical" alt="Asif's GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000asif&layout=compact&theme=radical" alt="Top Languages" />
