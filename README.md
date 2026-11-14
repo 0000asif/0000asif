@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
----
+
 
 ## 🧑‍💻 About Me
 
@@ -39,7 +39,7 @@ I’m a passionate **FullStack Laravel Developer** from **Bangladesh**, focused 
 - 💬 Ask me about Laravel, PHP, database design, and backend best practices
 - 📫 Email: [asasif8899@gmail.com](mailto:asasif8899@gmail.com)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +53,7 @@ I’m a passionate **FullStack Laravel Developer** from **Bangladesh**, focused 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -67,17 +67,50 @@ I’m a passionate **FullStack Laravel Developer** from **Bangladesh**, focused 
   <img src="https://streak-stats.demolab.com?user=0000asif&theme=radical&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
----
+
 
 ## 📂 Featured Projects
 
 Here are a few projects I’ve worked on:
 
-- 🔗 [Project 1](https://github.com/0000asif/toolswebsite) — Using APIs Make Simple Tools Website.
-- 🔗 [Project 2](https://sirajganjcity.com) — Multi-auth Laravel User and Admin Live Project for District Information Portal.
-- 🔗 [More Projects →](https://github.com/0000asif?tab=repositories)
+🚀 Featured Projects
 
----
+Here are some of the projects I've developed, showcasing my experience in web development, Laravel applications, e-commerce solutions, and AI-powered systems.
+
+🛒 1. E-commerce & Inventory Management System
+
+🔗 Live Demo: https://sherabangla64.com/
+
+Developed a complete E-commerce and Inventory Management System.
+Implemented product management, inventory tracking, and order management.
+Technologies: PHP, Laravel, jQuery, AJAX.
+🏙️ 2. District Information Portal
+
+🔗 Live Demo: https://sirajganjcity.com
+
+Developed a dynamic District Information Portal.
+Implemented Laravel Multi-Authentication with separate Admin and User panels.
+Technologies: PHP, Laravel, MySQL.
+🤖 3. AI-Powered Restaurant Management System
+
+🔗 Live Demo: https://shawarmagyro.com/
+
+Developed a Restaurant Management System with an AI-powered Voice Agent.
+Integrated an AI voice calling system to receive customer orders automatically.
+Focus: Restaurant Automation, AI Voice Agent, Order Management.
+🛍️ 4. Modern E-commerce Website
+
+🔗 Live Demo: https://www.vanelia.shop/
+
+Designed and developed a modern, visually appealing E-commerce website.
+Focused on clean UI, elegant design, smooth navigation, and user experience.
+Technologies: PHP, Laravel, jQuery, AJAX.
+📂 More Projects
+
+Explore more of my projects and source code on GitHub:
+
+🔗 View All Projects on GitHub →
+
 
 ## 📫 Let's Connect
 
@@ -85,7 +118,7 @@ Here are a few projects I’ve worked on:
 - 💼 LinkedIn: [Md Asif Hossain ](https://www.linkedin.com/in/md-asif-hossain-715668229/)
 - ☏ Portfolio: [+8801758040074](tel:+8801758040074)
 
----
+
 
 > _"Strive for clean code. Clarity is king."_ — Asif
 
